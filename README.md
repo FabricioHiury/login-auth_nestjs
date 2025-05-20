@@ -1,6 +1,6 @@
 # login-auth_nestjs
 
-Authentication API built with NestJS using JWT for user authentication and TypeORM to interact with a PostgreSQL database.
+Authentication API built with NestJS using JWT for user authentication and Prisma to interact with a PostgreSQL database.
 
 ## 🔐 Features
 
