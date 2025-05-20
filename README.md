@@ -13,7 +13,7 @@ Authentication API built with NestJS using JWT for user authentication and TypeO
 
 - Node.js
 - NestJS
-- TypeORM
+- Prisma
 - PostgreSQL
 - JWT
 
