@@ -6,7 +6,7 @@ Authentication API built with NestJS using JWT for user authentication and Prism
 
 - User registration and authentication
 - Route protection using JWT
-- PostgreSQL integration with TypeORM
+- PostgreSQL integration with Prisma
 - Modular structure with NestJS
 
 ## 🛠️ Technologies
